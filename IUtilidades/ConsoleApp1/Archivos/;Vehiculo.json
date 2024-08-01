@@ -1,0 +1,13 @@
+[
+  {
+    "$type": "ClassLibrary.Auto, ClassLibrary1",
+    "EspacioOcupado": 1,
+    "Tipo": 0,
+    "ValorHora": 500.0,
+    "Id": 1,
+    "HoraIngreso": "2024-06-26T21:14:26.1577236-03:00",
+    "HoraEgreso": "1754-01-01T12:00:00",
+    "Patente": "MTP350",
+    "Marca": "FORD"
+  }
+]

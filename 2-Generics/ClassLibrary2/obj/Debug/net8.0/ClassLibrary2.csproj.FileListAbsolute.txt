@@ -1,0 +1,11 @@
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.deps.json
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.dll
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.pdb
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.dll
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\obj\Debug\net8.0\refint\ClassLibrary2.dll
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.pdb
+C:\Users\ezequ\source\repos\2-Generics\ClassLibrary2\obj\Debug\net8.0\ref\ClassLibrary2.dll

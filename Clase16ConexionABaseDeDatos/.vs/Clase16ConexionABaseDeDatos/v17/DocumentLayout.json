@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16042E55-F86B-4FF8-8B1C-9A672323A912}|Vista\\Vista.csproj|C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\vista\\frmvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16042E55-F86B-4FF8-8B1C-9A672323A912}|Vista\\Vista.csproj|solutionrelative:vista\\frmvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16042E55-F86B-4FF8-8B1C-9A672323A912}|Vista\\Vista.csproj|C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\vista\\frmvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16042E55-F86B-4FF8-8B1C-9A672323A912}|Vista\\Vista.csproj|solutionrelative:vista\\frmvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A487B985-581A-4F35-8985-E3AD6D88EC68}|Entidades\\Entidades.csproj|C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A487B985-581A-4F35-8985-E3AD6D88EC68}|Entidades\\Entidades.csproj|solutionrelative:entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A487B985-581A-4F35-8985-E3AD6D88EC68}|Entidades\\Entidades.csproj|c:\\users\\ezequ\\source\\repos\\clase16conexionabasededatos\\entidades\\personadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A487B985-581A-4F35-8985-E3AD6D88EC68}|Entidades\\Entidades.csproj|solutionrelative:entidades\\personadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A487B985-581A-4F35-8985-E3AD6D88EC68}|Entidades\\Entidades.csproj|C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\entidades\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A487B985-581A-4F35-8985-E3AD6D88EC68}|Entidades\\Entidades.csproj|solutionrelative:entidades\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Vista\\FrmVista.cs",
+              "RelativeDocumentMoniker": "Vista\\FrmVista.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Vista\\FrmVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FrmVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:48:21.598Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVista.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Vista\\FrmVista.cs",
+              "RelativeDocumentMoniker": "Vista\\FrmVista.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Vista\\FrmVista.cs",
+              "RelativeToolTip": "Vista\\FrmVista.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:26:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Entidades\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Entidades\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Entidades\\DBConnection.cs",
+              "RelativeToolTip": "Entidades\\DBConnection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:05:48.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Entidades\\PersonaDAO.cs",
+              "RelativeDocumentMoniker": "Entidades\\PersonaDAO.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Entidades\\PersonaDAO.cs",
+              "RelativeToolTip": "Entidades\\PersonaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:05:04.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "Entidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase16ConexionABaseDeDatos\\Entidades\\Persona.cs",
+              "RelativeToolTip": "Entidades\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:03:39.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

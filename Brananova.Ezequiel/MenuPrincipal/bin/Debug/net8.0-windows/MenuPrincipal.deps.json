@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MenuPrincipal/1.0.0": {
+        "dependencies": {
+          "AgregarVehiculo": "1.0.0",
+          "ClassLibrary": "1.0.0",
+          "VerLista": "1.0.0",
+          "VerRegistroUsuario": "1.0.0"
+        },
+        "runtime": {
+          "MenuPrincipal.dll": {}
+        }
+      },
+      "AgregarVehiculo/1.0.0": {
+        "dependencies": {
+          "ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AgregarVehiculo.dll": {}
+        }
+      },
+      "ClassLibrary/1.0.0": {
+        "runtime": {
+          "ClassLibrary.dll": {}
+        }
+      },
+      "VerLista/1.0.0": {
+        "dependencies": {
+          "AgregarVehiculo": "1.0.0",
+          "ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "VerLista.dll": {}
+        }
+      },
+      "VerRegistroUsuario/1.0.0": {
+        "runtime": {
+          "VerRegistroUsuario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuPrincipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgregarVehiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VerLista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VerRegistroUsuario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

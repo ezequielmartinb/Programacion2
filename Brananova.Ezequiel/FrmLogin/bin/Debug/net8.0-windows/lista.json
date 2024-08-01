@@ -1,0 +1,13 @@
+{
+  "Nombre": "Estacionamiento UTN",
+  "CapacidadEstacionamiento": 19,
+  "ListadoDeVehiculos": [
+    {
+      "HoraIngreso": "2024-05-26T14:54:15.6267617-03:00",
+      "HoraEgreso": "0001-01-01T00:00:00",
+      "Patente": "MTP350",
+      "Marca": "FORD"
+    }
+  ],
+  "Ganancias": 0
+}

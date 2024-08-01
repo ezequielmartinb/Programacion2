@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ezequ\\source\\repos\\iutilidades\\classlibrary1\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B640477B-4B80-4398-A4A1-54AE6EE374DE}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\ezequ\\source\\repos\\IUtilidades\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B640477B-4B80-4398-A4A1-54AE6EE374DE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ezequ\\source\\repos\\iutilidades\\classlibrary1\\dbo\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\dbo\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\ezequ\\source\\repos\\IUtilidades\\classlibrary1\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\ezequ\\source\\repos\\IUtilidades\\classlibrary1\\jsonserializadorydeseralizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\jsonserializadorydeseralizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\ezequ\\source\\repos\\IUtilidades\\classlibrary1\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\ezequ\\source\\repos\\IUtilidades\\classlibrary1\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6CC54D-6E24-4837-AEAF-19BFD303F86E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\Vehiculo.cs",
+              "RelativeToolTip": "ClassLibrary1\\Vehiculo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:26:33.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\DBO\\AutoDAO.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DBO\\AutoDAO.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\DBO\\AutoDAO.cs",
+              "RelativeToolTip": "ClassLibrary1\\DBO\\AutoDAO.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:23:56.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonSerializadorYDeseralizador.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\JsonSerializadorYDeseralizador.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\JsonSerializadorYDeseralizador.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\JsonSerializadorYDeseralizador.cs",
+              "RelativeToolTip": "ClassLibrary1\\JsonSerializadorYDeseralizador.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:34:05.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\Moto.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Moto.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\Moto.cs",
+              "RelativeToolTip": "ClassLibrary1\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:19:21.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\Camion.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Camion.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\Camion.cs",
+              "RelativeToolTip": "ClassLibrary1\\Camion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:19:20.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\Auto.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Auto.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\Auto.cs",
+              "RelativeToolTip": "ClassLibrary1\\Auto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:19:19.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:55:08.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

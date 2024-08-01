@@ -1,0 +1,23 @@
+[
+  {
+    "Nombre": "Guido",
+    "Apellido": "Class",
+    "Mail": "gclass@gmail.com",
+    "Password": "123456",
+    "Rol": 0
+  },
+  {
+    "Nombre": "Felipe",
+    "Apellido": "Bustos",
+    "Mail": "felipeb@gmail.com",
+    "Password": "123456",
+    "Rol": 1
+  },
+  {
+    "Nombre": "Ezequiel",
+    "Apellido": "Brañanova",
+    "Mail": "ezequielmartinb10@gmail.com",
+    "Password": "123456",
+    "Rol": 2
+  }
+]

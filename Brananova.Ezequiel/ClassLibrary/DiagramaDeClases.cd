@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ClassLibrary.Clases.Auto">
+    <Position X="0.5" Y="7.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAECBAABAAAAAAAEgAAAAAAAAQAAIIAAgAAAAIAAAiQ=</HashCode>
+      <FileName>Clases\Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.Clases.Camion">
+    <Position X="6.5" Y="7.25" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAECBAABAAAAAAAEgAAAAAAAAQAAIIAAgAAAAIAAAiQ=</HashCode>
+      <FileName>Clases\Camion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.Clases.Moto">
+    <Position X="14" Y="7.25" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAECBAABAAAAAAAEgAAAAAAAAQAAIIAAgAAAAIAAAiQ=</HashCode>
+      <FileName>Clases\Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.Clases.Vehiculo">
+    <Position X="5" Y="0.75" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAABAAAAAQAAAEwEEAAABQAAAAIIAAAQAAAgkAAiI=</HashCode>
+      <FileName>Clases\Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.Login.Autenticacion">
+    <Position X="12.75" Y="0.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAgAAQAAAAAAAQAAAAEAAAAAACAA=</HashCode>
+      <FileName>Login\Autenticacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.Login.Usuario">
+    <Position X="17.5" Y="0.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAQAAACEAAAAgAACAAAAAgACAAAAA4AAAAE=</HashCode>
+      <FileName>Login\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.Utilidades.JsonSerializadorYDeseralizador&lt;V&gt;" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="3.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Utilidades\JsonSerializadorYDeseralizador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClassLibrary.Estacionamiento">
+    <Position X="20.75" Y="7.25" Width="8.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAACUwAEAkAIAAAACAIAAAAAAgAAAAqA=</HashCode>
+      <FileName>Estacionamiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.DAO.AutoDAO">
+    <Position X="28.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAACAAAAAAAAAAAAAAEICAABAAAAAA=</HashCode>
+      <FileName>DAO\AutoDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.DAO.CamionDAO">
+    <Position X="31.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAACAAAAAAAAAAAAAAEICAABAAAAAA=</HashCode>
+      <FileName>DAO\CamionDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.DAO.DBConnection">
+    <Position X="25.5" Y="3.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAABABAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DAO\DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary.DAO.MotoDAO">
+    <Position X="25.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAACAAAAAAAAAAAAAAEICAABAAAAAA=</HashCode>
+      <FileName>DAO\MotoDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassLibrary.Interfaces.IUtils&lt;T&gt;">
+    <Position X="30.5" Y="3.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IUtils.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ETipoAuto">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACBAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ETipoMoto">
+    <Position X="23.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAg=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ETipoCamion">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAYAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ERol">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EVehiculo">
+    <Position X="21.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

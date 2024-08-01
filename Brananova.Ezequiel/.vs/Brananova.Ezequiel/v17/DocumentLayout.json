@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\source\\repos\\brananova.ezequiel\\classlibrary\\dao\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\dao\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\source\\repos\\brananova.ezequiel\\classlibrary\\dao\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\dao\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\DAO\\DBConnection.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\DAO\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\DAO\\DBConnection.cs",
+              "RelativeToolTip": "ClassLibrary\\DAO\\DBConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:48:17.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\DAO\\AutoDAO.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\DAO\\AutoDAO.cs",
+              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\DAO\\AutoDAO.cs",
+              "RelativeToolTip": "ClassLibrary\\DAO\\AutoDAO.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:48:01.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
