@@ -30,7 +30,6 @@ namespace WinFormsApp
             this.lista = ADO.ObtenerTodos();
             this.dataGridView1.DataSource = this.lista;
             this.listaApellido = new List<Usuario>();
-
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
