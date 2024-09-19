@@ -1483,11 +1483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\TestUnitarios\\TestUnitarios.csproj",
+      "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\IUtilidades\\TestUnitarios\\TestUnitarios.csproj",
       "projectName": "TestUnitarios",
-      "projectPath": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\TestUnitarios\\TestUnitarios.csproj",
+      "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\IUtilidades\\TestUnitarios\\TestUnitarios.csproj",
       "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\TestUnitarios\\obj\\",
+      "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\IUtilidades\\TestUnitarios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1504,8 +1504,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\ClassLibrary1.csproj": {
-              "projectPath": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\ClassLibrary1\\ClassLibrary1.csproj"
+            "C:\\Users\\ezequ\\Desktop\\Programacion2\\IUtilidades\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\IUtilidades\\ClassLibrary1\\ClassLibrary1.csproj"
             }
           }
         }
@@ -1558,7 +1558,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,17 @@
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\bin\Debug\net8.0-windows\FrmBiblioteca.exe
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\bin\Debug\net8.0-windows\FrmBiblioteca.deps.json
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\bin\Debug\net8.0-windows\FrmBiblioteca.runtimeconfig.json
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\bin\Debug\net8.0-windows\FrmBiblioteca.dll
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\bin\Debug\net8.0-windows\FrmBiblioteca.pdb
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.FrmBiblioteca.resources
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.csproj.GenerateResource.cache
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.sourcelink.json
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.dll
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\refint\FrmBiblioteca.dll
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.pdb
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\FrmBiblioteca.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\Programacion2\5-BaseDeDatos\FrmBiblioteca\obj\Debug\net8.0-windows\ref\FrmBiblioteca.dll

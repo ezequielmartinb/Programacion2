@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\4-Archivos\\WinFormsApp\\WinFormsApp.csproj",
+      "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\4-Archivos\\WinFormsApp\\WinFormsApp.csproj",
       "projectName": "WinFormsApp",
-      "projectPath": "C:\\Users\\ezequ\\source\\repos\\4-Archivos\\WinFormsApp\\WinFormsApp.csproj",
+      "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\4-Archivos\\WinFormsApp\\WinFormsApp.csproj",
       "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezequ\\source\\repos\\4-Archivos\\WinFormsApp\\obj\\",
+      "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\4-Archivos\\WinFormsApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

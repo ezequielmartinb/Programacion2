@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\Test\\Test.csproj": {}
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,18 +66,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\Test\\Test.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\Test\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
@@ -148,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

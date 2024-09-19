@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\ClassLibrary\\ClassLibrary.csproj": {}
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

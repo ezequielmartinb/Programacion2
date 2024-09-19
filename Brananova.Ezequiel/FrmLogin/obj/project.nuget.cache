@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zvkOTqk4DN5WA6j8xr/iqxiYwIX5kLmmme7VBioobgQOb8oRm/3bhwBRFqo8dUINreP9csh8pO3tvxHxBDQ2Rg==",
+  "dgSpecHash": "XcCufPMgmA4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\FrmLogin\\FrmLogin.csproj",
+  "projectFilePath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\FrmLogin\\FrmLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

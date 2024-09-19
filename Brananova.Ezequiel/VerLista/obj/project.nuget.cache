@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dGzWZrTRa3SThJgoErQdyMrIx8Pu6wMqRkt3Lj7IbObie7692S5isTrpb1HL8ahz2HmlyXwcFciGCeRo2UqQuA==",
+  "dgSpecHash": "TZid7zzS+4Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerLista\\VerLista.csproj",
+  "projectFilePath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\VerLista.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

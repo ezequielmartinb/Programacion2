@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPjpmX5ruQpeMylIPJX62Rk5i44LzTtggCr6pFzd+Gsw93Cz7FGPP1ds2Kpfdwm0+NwOJ2VTxD58ibTugAIGbg==",
+  "dgSpecHash": "0dqMrFUk7AI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezequ\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

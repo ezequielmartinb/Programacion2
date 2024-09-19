@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\",
+  "WorkspaceRootPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\source\\repos\\brananova.ezequiel\\classlibrary\\dao\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\dao\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61702DFF-E332-49C0-AE65-4DD88C22AB9D}|MenuPrincipal\\MenuPrincipal.csproj|c:\\users\\ezequ\\desktop\\programacion2\\brananova.ezequiel\\menuprincipal\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61702DFF-E332-49C0-AE65-4DD88C22AB9D}|MenuPrincipal\\MenuPrincipal.csproj|solutionrelative:menuprincipal\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\source\\repos\\brananova.ezequiel\\classlibrary\\dao\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61702DFF-E332-49C0-AE65-4DD88C22AB9D}|MenuPrincipal\\MenuPrincipal.csproj|C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\menuprincipal\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61702DFF-E332-49C0-AE65-4DD88C22AB9D}|MenuPrincipal\\MenuPrincipal.csproj|solutionrelative:menuprincipal\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\programacion2\\brananova.ezequiel\\classlibrary\\login\\autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\login\\autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\programacion2\\brananova.ezequiel\\classlibrary\\login\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\login\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337BD66-4F51-4120-90B8-F4F9AE0C4BBE}|VerLista\\VerLista.csproj|c:\\users\\ezequ\\desktop\\programacion2\\brananova.ezequiel\\verlista\\frmverlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1337BD66-4F51-4120-90B8-F4F9AE0C4BBE}|VerLista\\VerLista.csproj|solutionrelative:verlista\\frmverlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\programacion2\\brananova.ezequiel\\classlibrary\\utilidades\\jsonserializadorydeseralizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\utilidades\\jsonserializadorydeseralizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\programacion2\\brananova.ezequiel\\classlibrary\\dao\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\dao\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\programacion2\\brananova.ezequiel\\classlibrary\\dao\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E50BC15-DA33-4A7F-8860-FC3885FC8FF4}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\dao\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +42,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DBConnection.cs",
-              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\DAO\\DBConnection.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\DAO\\DBConnection.cs",
-              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\DAO\\DBConnection.cs",
-              "RelativeToolTip": "ClassLibrary\\DAO\\DBConnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Autenticacion.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\Login\\Autenticacion.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Login\\Autenticacion.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\Login\\Autenticacion.cs",
+              "RelativeToolTip": "ClassLibrary\\Login\\Autenticacion.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwD4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:48:17.358Z",
+              "WhenOpened": "2024-09-14T17:20:29.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AutoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\DAO\\AutoDAO.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\DAO\\AutoDAO.cs",
-              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\DAO\\AutoDAO.cs",
-              "RelativeToolTip": "ClassLibrary\\DAO\\AutoDAO.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowC8AAAAIAAAA",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\Login\\Usuario.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Login\\Usuario.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\Login\\Usuario.cs",
+              "RelativeToolTip": "ClassLibrary\\Login\\Usuario.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:48:01.024Z",
+              "WhenOpened": "2024-09-14T17:20:25.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonSerializadorYDeseralizador.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\Utilidades\\JsonSerializadorYDeseralizador.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Utilidades\\JsonSerializadorYDeseralizador.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\Utilidades\\JsonSerializadorYDeseralizador.cs",
+              "RelativeToolTip": "ClassLibrary\\Utilidades\\JsonSerializadorYDeseralizador.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:16:55.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmVerLista.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\FrmVerLista.cs",
+              "RelativeDocumentMoniker": "VerLista\\FrmVerLista.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\FrmVerLista.cs",
+              "RelativeToolTip": "VerLista\\FrmVerLista.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:46:28.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\FrmMenuPrincipal.cs",
+              "RelativeToolTip": "MenuPrincipal\\FrmMenuPrincipal.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAewFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:46:18.182Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuPrincipal\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:46:13.204Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\DAO\\DBConnection.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\DAO\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\DAO\\DBConnection.cs",
+              "RelativeToolTip": "ClassLibrary\\DAO\\DBConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:48:17.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\DAO\\AutoDAO.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\DAO\\AutoDAO.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\DAO\\AutoDAO.cs",
+              "RelativeToolTip": "ClassLibrary\\DAO\\AutoDAO.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:48:01.024Z"
             }
           ]
         }

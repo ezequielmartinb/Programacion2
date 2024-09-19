@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\",
+  "WorkspaceRootPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5990321-3082-44DD-80DD-3F5C63D9483D}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\source\\repos\\clase17delegadosylambda\\classlibrary\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5990321-3082-44DD-80DD-3F5C63D9483D}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\programacion2\\clase17delegadosylambda\\classlibrary\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5990321-3082-44DD-80DD-3F5C63D9483D}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\eventos\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|c:\\users\\ezequ\\desktop\\programacion2\\clase17delegadosylambda\\eventos\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|solutionrelative:eventos\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\eventos\\frmavisador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|solutionrelative:eventos\\frmavisador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\eventos\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|solutionrelative:eventos\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\eventos\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|solutionrelative:eventos\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D5990321-3082-44DD-80DD-3F5C63D9483D}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\programacion2\\clase17delegadosylambda\\classlibrary\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{D5990321-3082-44DD-80DD-3F5C63D9483D}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|c:\\users\\ezequ\\desktop\\programacion2\\clase17delegadosylambda\\eventos\\frmavisador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3995E965-8400-4633-897D-C814AF1A7C9F}|Eventos\\Eventos.csproj|solutionrelative:eventos\\frmavisador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +30,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassLibrary\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-14T16:47:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FrmAvisador.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.Designer.cs",
               "RelativeDocumentMoniker": "Eventos\\FrmAvisador.Designer.cs",
-              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.Designer.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.Designer.cs",
               "RelativeToolTip": "Eventos\\FrmAvisador.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,11 +61,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\ClassLibrary\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\Persona.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Persona.cs",
-              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\ClassLibrary\\Persona.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\ClassLibrary\\Persona.cs",
               "RelativeToolTip": "ClassLibrary\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T23:29:49.996Z",
               "EditorCaption": ""
@@ -58,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmAvisador.cs",
-              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.cs",
               "RelativeDocumentMoniker": "Eventos\\FrmAvisador.cs",
-              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.cs",
               "RelativeToolTip": "Eventos\\FrmAvisador.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FrmAvisador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.cs",
               "RelativeDocumentMoniker": "Eventos\\FrmAvisador.cs",
-              "ToolTip": "C:\\Users\\ezequ\\source\\repos\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Clase17DelegadosYLambda\\Eventos\\FrmAvisador.cs [Dise\u00F1o]",
               "RelativeToolTip": "Eventos\\FrmAvisador.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T22:32:12.24Z",

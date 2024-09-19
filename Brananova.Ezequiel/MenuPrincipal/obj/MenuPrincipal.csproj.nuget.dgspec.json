@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\MenuPrincipal\\MenuPrincipal.csproj": {}
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\MenuPrincipal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj",
         "projectName": "AgregarVehiculo",
-        "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\AgregarVehiculo\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\AgregarVehiculo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
@@ -67,18 +67,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -133,18 +133,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\MenuPrincipal\\MenuPrincipal.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\MenuPrincipal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\MenuPrincipal\\MenuPrincipal.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\MenuPrincipal.csproj",
         "projectName": "MenuPrincipal",
-        "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\MenuPrincipal\\MenuPrincipal.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\MenuPrincipal.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\MenuPrincipal\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\MenuPrincipal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,17 +161,17 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj": {
-                "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj"
               },
-              "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
               },
-              "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerLista\\VerLista.csproj": {
-                "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerLista\\VerLista.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\VerLista.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\VerLista.csproj"
               },
-              "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj": {
-                "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj"
               }
             }
           }
@@ -209,18 +209,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerLista\\VerLista.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\VerLista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerLista\\VerLista.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\VerLista.csproj",
         "projectName": "VerLista",
-        "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerLista\\VerLista.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\VerLista.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerLista\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerLista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -237,11 +237,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj": {
-                "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\AgregarVehiculo\\AgregarVehiculo.csproj"
               },
-              "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
@@ -279,18 +279,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj",
         "projectName": "VerRegistroUsuario",
-        "projectPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerRegistroUsuario\\VerRegistroUsuario.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\VerRegistroUsuario\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\VerRegistroUsuario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -342,7 +342,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

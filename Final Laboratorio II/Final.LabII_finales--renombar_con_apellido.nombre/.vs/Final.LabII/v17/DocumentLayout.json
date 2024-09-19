@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\ezequ\\desktop\\modelos de final\\final laboratorio ii-2024\\final laboratorio ii\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\winformsapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\ezequ\\desktop\\modelos de final\\final laboratorio ii-2024\\final laboratorio ii\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\ezequ\\desktop\\modelos de final\\final laboratorio ii-2024\\final laboratorio ii\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\ezequ\\desktop\\modelos de final\\final laboratorio ii-2024\\final laboratorio ii\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D77F-7235-4A50-977C-738E50803746}|Entidades.Final\\Entidades.Final.csproj|c:\\users\\ezequ\\desktop\\modelos de final\\final laboratorio ii-2024\\final laboratorio ii\\final.labii_finales--renombar_con_apellido.nombre\\entidades.final\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3D77F-7235-4A50-977C-738E50803746}|Entidades.Final\\Entidades.Final.csproj|solutionrelative:entidades.final\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D77F-7235-4A50-977C-738E50803746}|Entidades.Final\\Entidades.Final.csproj|c:\\users\\ezequ\\desktop\\modelos de final\\final laboratorio ii-2024\\final laboratorio ii\\final.labii_finales--renombar_con_apellido.nombre\\entidades.final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3D77F-7235-4A50-977C-738E50803746}|Entidades.Final\\Entidades.Final.csproj|solutionrelative:entidades.final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmUsuario.cs",
+              "RelativeToolTip": "WinFormsApp\\FrmUsuario.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:33:50.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmListado.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmListado.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmListado.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmListado.cs",
+              "RelativeToolTip": "WinFormsApp\\FrmListado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:44:27.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmLogin.cs",
+              "RelativeToolTip": "WinFormsApp\\FrmLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:41:58.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:33:27.81Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmPrincipal.cs",
+              "RelativeToolTip": "WinFormsApp\\FrmPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:29:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ADO.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\ADO.cs",
+              "RelativeDocumentMoniker": "Entidades.Final\\ADO.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\ADO.cs",
+              "RelativeToolTip": "Entidades.Final\\ADO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:26:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\Login.cs",
+              "RelativeDocumentMoniker": "Entidades.Final\\Login.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\MODELOS DE FINAL\\Final Laboratorio II-2024\\Final Laboratorio II\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\Login.cs",
+              "RelativeToolTip": "Entidades.Final\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:25:04.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

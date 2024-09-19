@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YrCHJiJGPPINM5EbFZbofq4y5ldatJDdcdFXSCmW+KOtKqhkmzqxNtdTLiIV/H33iPA3rsWJk/WLl/V5dVJMnw==",
+  "dgSpecHash": "h7K2kgnLJmc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezequ\\source\\repos\\IUtilidades\\TestUnitarios\\TestUnitarios.csproj",
+  "projectFilePath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\IUtilidades\\TestUnitarios\\TestUnitarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezequ\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

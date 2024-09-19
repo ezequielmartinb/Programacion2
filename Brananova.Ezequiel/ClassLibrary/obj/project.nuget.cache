@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UY3rIntgQeHCJvwIU4L3t7XXMGI2jF5KXiPohvy3yT0uxwByYfImahAPChiOWtPv1wBnUMQ2K5eSfazYP347GA==",
+  "dgSpecHash": "Ypjmud+QsO0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezequ\\source\\repos\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
+  "projectFilePath": "C:\\Users\\ezequ\\Desktop\\Programacion2\\Brananova.Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

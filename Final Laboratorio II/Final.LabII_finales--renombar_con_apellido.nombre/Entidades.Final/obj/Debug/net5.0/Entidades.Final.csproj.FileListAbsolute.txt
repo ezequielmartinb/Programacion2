@@ -1,0 +1,12 @@
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\bin\Debug\net5.0\Entidades.Final.deps.json
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\bin\Debug\net5.0\Entidades.Final.dll
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\bin\Debug\net5.0\Entidades.Final.pdb
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\Entidades.Final.csproj.AssemblyReference.cache
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\Entidades.Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\Entidades.Final.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\Entidades.Final.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\Entidades.Final.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\Entidades.Final.dll
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\refint\Entidades.Final.dll
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\Entidades.Final.pdb
+C:\Users\ezequ\Desktop\MODELOS DE FINAL\Final Laboratorio II-2024\Final Laboratorio II\Final.LabII_finales--renombar_con_apellido.nombre\Entidades.Final\obj\Debug\net5.0\ref\Entidades.Final.dll
