@@ -137,6 +137,9 @@ namespace WinFormsApp
                             }
                             listBox.BackColor = System.Drawing.Color.Black;
                             listBox.ForeColor = System.Drawing.Color.White;
+                            listaUsuarios.Clear();                            
+                            listaUsuarios = ADO.ObtenerTodos();
+                            listBox.Refresh();
                         }));
 
                         Thread.Sleep(1500);
@@ -145,11 +148,15 @@ namespace WinFormsApp
                         {
                             listBox.BackColor = System.Drawing.Color.White;
                             listBox.ForeColor = System.Drawing.Color.Black;
+                            listaUsuarios.Clear();
+                            listaUsuarios = ADO.ObtenerTodos();
+                            listBox.Refresh();
                         }
                         ));
 
                         Thread.Sleep(1500);
                     }
+                    
                 }, cancellationToken);
             }
         }
