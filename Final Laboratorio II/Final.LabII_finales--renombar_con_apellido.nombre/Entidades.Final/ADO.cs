@@ -39,7 +39,7 @@ namespace Entidades.Final
                 sqlCommand.Parameters.AddWithValue("clave", user.Clave);
                 sqlCommand.ExecuteNonQuery();
                 List<Usuario> lista = ADO.ObtenerTodos(user.Apellido);
-                if (lista != null)
+                if (lista != null && lista.Count > 1)
                 {
                     UsuariosConApellidosRepetidosEventArgs usuariosConApellidosRepetidosEventArgs = new UsuariosConApellidosRepetidosEventArgs(lista);
                     ADO.ApellidoUsuarioExistente.Invoke(user, usuariosConApellidosRepetidosEventArgs);
